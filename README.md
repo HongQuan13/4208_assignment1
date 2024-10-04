@@ -1,5 +1,10 @@
 # 4208_assignment1
 
+# Demo:
+
+![photo_2024-10-04 16 52 27](https://github.com/user-attachments/assets/86e391b9-13d2-4fa7-8e68-b8270e694397)
+
+
 # Presiquisites:
 Make sure you have the following tools installed:
  - VSCode for development.
